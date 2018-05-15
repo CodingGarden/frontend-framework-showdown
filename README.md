@@ -5,7 +5,7 @@ All apps will contact the 500px Image Search API.
 
 `https://api.500px.com/v1/photos/search?term=flowers`
 
-> You will need a consumer key from 500px.com. Update `your-api-key-here` with your consumer key to use the app.
+> You will need a consumer key from 500px.com. Update `your-api-key-here` with your consumer key to use the app. After signing up, create an application here: https://500px.com/settings/applications
 
 All apps will use the skeleton CSS framework:
 
